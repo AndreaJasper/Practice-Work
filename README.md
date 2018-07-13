@@ -1,3 +1,2 @@
-# Color-Game
-Color game project from Udemy.com
-Covers HTML/CSS/Javascript
+# Practice-Work
+Practice work from Udemy and my personal website build.
